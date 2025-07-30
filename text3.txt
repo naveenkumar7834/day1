@@ -1,0 +1,6 @@
+park
+school
+gym
+hills
+village
+city
