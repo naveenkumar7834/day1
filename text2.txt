@@ -1,0 +1,5 @@
+fav car:bmv
+fav bike:rr 310
+fav bus:scania
+fav cartoon:ben10
+fav anime:naruto
